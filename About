@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>VIEL REOLADA</title>
+    </head>
+    <body>
+        <div class="background_image">
+            <img src="Friends.jpeg" alt="Me and my friends together.">
+        <div class="header">
+            <div class="inner_header">
+                <div class="logo_container">
+                    <h1>VIEL REOLADA</h1>
+                </div>
+                <nav>
+                    <ul class="nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="About.html" class="active">About</a></li>
+                        <li><a href="#">Projects</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div> 
+        </div>
+        <main>
+        </main>
+    </body>
+</html>
